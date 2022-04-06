@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
+slogan: “好好的，然后去想去的地方。”
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
@@ -21,7 +21,7 @@ widget:
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
-    image:
+    image: images/REM1.jpg
     # Options: auto, cover and contain. Default is auto.
     size:
     # Options: center, top, right, bottom, left.

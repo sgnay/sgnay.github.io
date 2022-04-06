@@ -8,7 +8,16 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;WANG Chucheng&lt;/a&gt; and &lt;a href=&#34;https://sgnay.github.io/&#34;&gt;sgnay&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 18:36:28 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podman</title>
+      <link>/posts/podman/</link>
+      <pubDate>Wed, 06 Apr 2022 18:36:28 +0800</pubDate>
+      
+      <guid>/posts/podman/</guid>
+      <description>&lt;p&gt;podman使用笔记&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Diagram Support</title>
       <link>/posts/diagram-support/</link>
