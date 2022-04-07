@@ -18,7 +18,7 @@ social:
     iconPack: fab
     url: https://github.com/sgnay/
 
-weight: 1
+weight: 3
 widget:
   handler: about
 

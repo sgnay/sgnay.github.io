@@ -1,11 +1,11 @@
 ---
 title: Vintage
 draft: false
-slogan: “好好的，然后去想去的地方。”
+slogan: “rem is best girl !”
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
-weight: 4
+weight: 1
 widget:
   handler: vintage
 

@@ -1,6 +1,8 @@
 ---
 title: "Podman"
 date: 2022-04-06T18:36:28+08:00
+toc: true
+featuredImage: pictures/nt.gif
 draft: false
 ---
 
