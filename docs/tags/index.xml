@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SlothBlog</title>
-    <link>https://sgnay.github.io/tags/</link>
+    <link>http://sgnay.gitee.io/tags/</link>
     <description>Recent content in Tags on SlothBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;WANG Chucheng&lt;/a&gt; and &lt;a href=&#34;https://sgnay.github.io/&#34;&gt;sgnay&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sgnay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://sgnay.gitee.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>image</title>
-      <link>https://sgnay.github.io/tags/image/</link>
+      <link>http://sgnay.gitee.io/tags/image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/image/</guid>
+      <guid>http://sgnay.gitee.io/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://sgnay.github.io/tags/css/</link>
+      <link>http://sgnay.gitee.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/css/</guid>
+      <guid>http://sgnay.gitee.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://sgnay.github.io/tags/html/</link>
+      <link>http://sgnay.gitee.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/html/</guid>
+      <guid>http://sgnay.gitee.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://sgnay.github.io/tags/markdown/</link>
+      <link>http://sgnay.gitee.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/markdown/</guid>
+      <guid>http://sgnay.gitee.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://sgnay.github.io/tags/themes/</link>
+      <link>http://sgnay.gitee.io/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/themes/</guid>
+      <guid>http://sgnay.gitee.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://sgnay.github.io/tags/text/</link>
+      <link>http://sgnay.gitee.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/text/</guid>
+      <guid>http://sgnay.gitee.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://sgnay.github.io/tags/emoji/</link>
+      <link>http://sgnay.gitee.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sgnay.github.io/tags/emoji/</guid>
+      <guid>http://sgnay.gitee.io/tags/emoji/</guid>
       <description></description>
     </item>
     
