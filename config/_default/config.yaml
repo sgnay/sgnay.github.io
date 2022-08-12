@@ -1,14 +1,11 @@
 baseURL: /
 title: SlothBlog
 
-# Uncomment when not installing with Hugo Modules
-# theme: eureka
-# Comment when not installing with Hugo Modules
 theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2022 <a href="https://sgnay.github.io/">Theo Young</a>
+  &copy; 2022 <a href="https://sgnay.github.io/">sgnay</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75

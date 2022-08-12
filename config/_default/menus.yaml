@@ -1,20 +1,10 @@
 main:
-<<<<<<< HEAD
-  - name: 关于作者
-=======
-  - name: 关于
->>>>>>> 996081a (重新配置)
+  - name: About
     url: '#about'
     weight: 1
-  - name: 文章
+  - name: Posts
     url: /posts/
     weight: 2
-  - name: 文档
+  - name: Docs
     url: /docs/
     weight: 3
-<<<<<<< HEAD
-  - name: 视频
-    url: /videos/
-    weight: 4
-=======
->>>>>>> 996081a (重新配置)

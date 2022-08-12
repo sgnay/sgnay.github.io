@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sgnay on 怠惰博客</title>
+    <link>/authors/sgnay/</link>
+    <description>Recent content in sgnay on 怠惰博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://sgnay.github.io/&#34;&gt;sgnay&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Sun, 15 May 2022 16:17:51 +0800</lastBuildDate><atom:link href="/authors/sgnay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装debian</title>
+      <link>/docs/linux%E6%96%87%E6%A1%A3/%E5%AE%89%E8%A3%85debian/</link>
+      <pubDate>Sun, 15 May 2022 16:17:51 +0800</pubDate>
+      
+      <guid>/docs/linux%E6%96%87%E6%A1%A3/%E5%AE%89%E8%A3%85debian/</guid>
+      <description>安装debian虚拟机 通过网络在kvm中安装debian11 下载镜像 进入官网选择网络镜像下载https://www.debian.org/downlo</description>
+    </item>
+    
+    <item>
+      <title>安装debian</title>
+      <link>/posts/%E5%AE%89%E8%A3%85debian/</link>
+      <pubDate>Sun, 15 May 2022 16:17:51 +0800</pubDate>
+      
+      <guid>/posts/%E5%AE%89%E8%A3%85debian/</guid>
+      <description>安装debian虚拟机 通过网络在kvm中安装debian11 下载镜像 进入官网选择网络镜像下载https://www.debian.org/downlo</description>
+    </item>
+    
+  </channel>
+</rss>
