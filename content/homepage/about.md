@@ -3,7 +3,7 @@ title: Theo Young
 draft: false
 role: slother
 avatar: images/head.jpg
-bio: 一个懒、有拖延症且很纠结的人。
+bio: 懒、拖延症、选择困难和喜欢神游太虚。
 organization:
   name: League of Sloths
   url: https://github.com/sgnay/
