@@ -8,7 +8,7 @@
     <language>zh</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://sgnay.github.io/&#34;&gt;sgnay&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 15 May 2022 16:17:51 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 16:59:05 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>安装debian</title>
       <link>/docs/linux%E6%96%87%E6%A1%A3/%E5%AE%89%E8%A3%85debian/</link>
@@ -25,6 +25,24 @@
       
       <guid>/posts/%E5%AE%89%E8%A3%85debian/</guid>
       <description>安装debian虚拟机 通过网络在kvm中安装debian11 下载镜像 进入官网选择网络镜像下载https://www.debian.org/downlo</description>
+    </item>
+    
+    <item>
+      <title>Main</title>
+      <link>/posts/main/</link>
+      <pubDate>Fri, 12 Aug 2022 16:59:05 +0800</pubDate>
+      
+      <guid>/posts/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readme</title>
+      <link>/readme/</link>
+      <pubDate>Fri, 12 Aug 2022 16:58:52 +0800</pubDate>
+      
+      <guid>/readme/</guid>
+      <description></description>
     </item>
     
     <item>

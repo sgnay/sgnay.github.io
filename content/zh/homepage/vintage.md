@@ -1,31 +1,32 @@
 ---
-title: Vintage
+title: 座右铭
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: 己所不欲勿施于人.
+imgLeft: images/left.png
+imgRight: images/right.png
 
 weight: 4
 widget:
   handler: vintage
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: xl
+
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position:
+    position: left
     # Options: sm, md, lg and xl. Default is md.
-    scale:
+    scale: sm
     
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
-    image:
+    image: images/Daily-Lives.jpg
     # Options: auto, cover and contain. Default is auto.
-    size:
+    size: auto
     # Options: center, top, right, bottom, left.
-    position:
+    position: center
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment: fixed
 ---

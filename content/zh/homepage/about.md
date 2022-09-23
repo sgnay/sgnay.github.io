@@ -11,9 +11,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:sgnay@outlook.com
-  - icon: twitter
+  - icon: reddit
     iconPack: fab
-    url: https://twitter.com/sgnay
+    url: https://www.reddit.com/user/sgnay
   - icon: github
     iconPack: fab
     url: https://github.com/sgnay
@@ -23,7 +23,7 @@ widget:
   handler: about
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: md
 
   sidebar:
     # Options: left and right. Leave blank to hide.
@@ -43,12 +43,10 @@ widget:
     attachment: 
 ---
 
-## 神游太虚
+# 言之有预
 
-这是一个装逼的说法，很多人都喜欢天马行空的想象，我也喜欢。从很小的时候就有一个或者几个“纯洁”的梦想，当然已经不记得是什么了，几乎无时不刻的幻想，上学路上，吃饭的时候，课堂上，放学的路上，那些总是令人感到愉快。
+好记性总不如烂笔头，写文档、笔记时常发现这些知识过去都整理记录过，但是确无论如何都无法在找到了，如此不得已又要再研究整理一番。
 
-## TODO
+唉，我逝去的时间啊！
 
-[ ] golang入门学习
-[ ] golang小应用
-[ ] 练字，字太丑
+要说做计划，不知道反复了无数次，最终我还是适合随心所欲的，计划就不再做了，不过为了避免常常发呆漫无目的或无所适从，还是定下些规矩供自己参详。正所谓无规矩不成方圆，无笔记做不好事情。
